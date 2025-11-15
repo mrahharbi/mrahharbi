@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SEC<br>👯 I’m looking to improve my skills <br>🤝 I’m looking for help with issues<br>🌱 I’m currently learning ML<br>💬 Ask me about me<br>⚡ Get Fun with Code 
+🔭 I’m currently working on SEC<br>👯 I’m looking to improve my skills <br>🤝 I’m looking for help with issues<br>🌱 I’m currently learning ML & Data Since<br>💬 Ask me about me<br>⚡ Get Fun with Code 
 
 
 ## 🌐 Socials:
